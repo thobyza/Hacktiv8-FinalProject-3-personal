@@ -1,0 +1,16 @@
+credit:
+https://media.istockphoto.com/id/1312220520/vector/illustration-of-cute-panda-working-on-laptop.jpg?s=612x612&w=0&k=20&c=1WkEn39zzzplFoDHxGPVrTi06pIbZWKcoG9DyCrhrhA=
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKB29hugfLCJv_1SgowNTPdjksXR9iQ9g8_Q&usqp=CAU
+https://img.freepik.com/free-psd/restaurant-opening-web-template-design_23-2148410411.jpg?w=1060&t=st=1669737304~exp=1669737904~hmac=ea03b987c7e13c74d30487793cd467f3c839d304b7b5a8f4b30f811ca07f84bb
+https://img.freepik.com/free-psd/social-media-marketing-agency-web-design-template_23-2149073401.jpg?w=1060&t=st=1669737361~exp=1669737961~hmac=fc7a804e19f60a37535598069cbcc9bd3ae8e8c08e40ed339188938009907c65
+https://img.freepik.com/free-psd/italian-food-concept-web-template_23-2148517302.jpg?w=1060&t=st=1669737385~exp=1669737985~hmac=5e5fa5a3bbe561278c09b60641c372e9096476d1477086f4c71a13dfa694e67f
+https://img.freepik.com/free-psd/various-web-printable-templates-with-screen_23-2148450117.jpg?w=1060&t=st=1669737409~exp=1669738009~hmac=b586c819acfd0cab13ac3955c15273ad7c70c751ac38e9120cdfc51099911021
+https://img.freepik.com/free-psd/template-design-with-coffee-business-concept_23-2148437522.jpg?w=1060&t=st=1669737397~exp=1669737997~hmac=dd0796fb7711a22968639b06ffc261a4d563c7f3d03f987b475e42024dc47644
+https://img.freepik.com/free-psd/technology-web-design-template_23-2149216787.jpg?w=1060&t=st=1669737465~exp=1669738065~hmac=c2d1f1d4467892e31cc9ccc4f4cbf799b9321e2f0a32ad183c6a707c4fded826
+https://img.freepik.com/free-psd/user-interface-design-website-template_23-2149182791.jpg?w=1060&t=st=1669738656~exp=1669739256~hmac=c5fc8a516ccbade18e9fe0201ac7fd234a6b9c128d254f89d0185e3af05ad3fa
+https://img.freepik.com/free-psd/startup-design-template_23-2149087802.jpg?w=1060&t=st=1669738681~exp=1669739281~hmac=92abc92aee6412fe791644e7ed0b02855dfedefdd0874074bb47877fe0af25a5
+https://img.freepik.com/free-psd/music-show-web-design-template_23-2149081335.jpg?w=1060&t=st=1669738666~exp=1669739266~hmac=7c4afc490570e15fb9941a25ad4850501aee08ffb6c7fb1c52857151da88db6c
+
+Division of tasks:
+Affani  : Section A & B
+Thoby   : Section C & D
